@@ -1,0 +1,14 @@
+INFO: 2024-06-05 07:54:30,465: Data
+INFO: 2024-06-05 07:54:30,467: Data shape (110527, 14)
+INFO: 2024-06-05 07:54:30,500: Percentage of women: 0.653882342398853
+INFO: 2024-06-05 07:54:30,539: Percentage of men: 0.346117657601147
+ERROR: 2024-06-05 07:55:29,157: Data shape is incorrect!
+INFO: 2024-06-06 07:32:57,690: This is an informational message
+WARNING: 2024-06-06 07:32:57,691: This message is a warning
+ERROR: 2024-06-06 07:32:57,692: This is an error message
+CRITICAL: 2024-06-06 07:32:57,693: This is a critical message
+INFO: 2024-06-06 07:32:57,782: Data
+INFO: 2024-06-06 07:32:57,782: Data shape (110527, 14)
+INFO: 2024-06-06 07:32:57,793: Percentage of women: 0.653882342398853
+INFO: 2024-06-06 07:32:57,802: Percentage of men: 0.346117657601147
+ERROR: 2024-06-06 07:32:57,810: Data shape is incorrect!
