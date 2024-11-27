@@ -1,15 +1,15 @@
 # PROJECT-6. Сегментирование клиентов онлайн-магазина подарков
 
  ## Оглавление
- [1. Описание проекта](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Описание-проекта)
+ [1. Описание проекта](https://github.com/AlexGorel/IDE_NEW/blob/master/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/README.md#Описание-проекта)
 
- [2. Какой кейс решаем?](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Какой-кейс-решаем)
+ [2. Какой кейс решаем?](https://github.com/AlexGorel/IDE_NEW/blob/master/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/README.md#Какой-кейс-решаем)
 
- [3. Краткая информация о данных](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Краткая-информация-о-данных)
+ [3. Краткая информация о данных](https://github.com/AlexGorel/IDE_NEW/blob/master/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/README.md#Краткая-информация-о-данных)
 
- [4. Этапы работы над проектом](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Этапы-работы-над-проектом)
+ [4. Этапы работы над проектом](https://github.com/AlexGorel/IDE_NEW/blob/master/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/README.md#Этапы-работы-над-проектом)
 
- [5. Результаты](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Результаты)
+ [5. Результаты](https://github.com/AlexGorel/IDE_NEW/blob/master/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/README.md#Результаты)
 
 
 ### Описание пректа 
@@ -22,7 +22,7 @@
 
 Машинное обучение помогает поисковой системе анализировать огромное количество данных о посетителях платформы, узнавать модели поведения профессиональных покупателей, определять категорию клиентов (например, лояльные/перспективные/новички/«спящие»/ушедшие) и выбирать правильную стратегию взаимодействия с ними.
 
-:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/AlexGorel/IDE_NEW/blob/master/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -36,7 +36,7 @@
 3. Сформировать категории товаров и клиентов.
 4. Построить несколько моделей машинного обучения, решающих задачу кластеризации клиентов, определить количество кластеров и проинтерпретировать их.
 
-:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/AlexGorel/IDE_NEW/blob/master/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/README.md#Оглавление)
 
 ### Краткая информация о данных
 
@@ -56,7 +56,7 @@
 * CustomerID — идентификатор клиента (уникальный пятизначный номер, однозначно присваиваемый каждому клиенту);
 * Country — название страны, в которой проживает клиент.
 
-:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/AlexGorel/IDE_NEW/blob/master/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
@@ -65,11 +65,11 @@
 3. Разведывательный анализ данных (EDA)
 4. RFM-сегментация клиентов. Знакомство с популярным в маркетинге методом сегментации клиентов под названием RFM (Recency, Frequency, Monetary). На основе этого метода необходимо сформировать из исходного датасета о транзакциях таблицу с RFM-характеристиками клиентов и произвести их сегментацию.
 
-:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/AlexGorel/IDE_NEW/blob/master/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/README.md#Оглавление)
 
 ### Результаты
 
 На основе исходного датасета с помощью метода сегментации клиентов RFM сформирована таблица с RFM-характеристиками. С помощью метода главных компонент (PCA), линейного метода отображения исходного пространства признаков в его сжатую версию, - пространство признаков сжато до двух компонент. С помощью коэффициента силуэта подобрано оптимальное количество кластеров. Произведена кластеризация клиентов с помощью методов k-means, bisecting k-means и GaussianMixture.
 
-:arrow_up:[ к оглавлению](https://github.com/slagovskiy/DST/blob/main/Project-6/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/AlexGorel/IDE_NEW/blob/master/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/README.md#Оглавление)
 
