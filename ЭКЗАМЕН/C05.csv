@@ -1,0 +1,191 @@
+GallusID,EggsPerDay,SunLightExposure,Age,GallusWeight,GallusEggColor,AmountOfFeed,GallusEggWeight,GallusCombType,GallusPlumage
+Marans1,5,7.0,883,3000,Brown,114,41.19,Single,Blue Copper
+Marans2,5,9.0,684,1750,Brown,111,52.91,Single,Blue
+Marans3,5,7.0,132,2370,Brown,125,49.72,Single,Splash
+Marans4,5,8.0,226,2790,Brown,122,30.52,Single,Splash Copper
+Marans5,5,9.0,288,2370,Brown,128,54.03,Single,Splash Copper
+Marans6,5,8.0,125,2490,Brown,125,31.89,Single,Splash Copper
+Marans7,5,8.0,494,2750,Brown,111,36.82,Single,Blue Copper
+Marans8,0,9.0,984,2180,Brown,107,48.04,Single,Blue
+Marans9,5,10.0,908,1730,Brown,110,38.66,Single,Blue
+Marans10,5,7.0,619,2580,Brown,116,46.16,Single,Splash
+Marans11,5,10.0,802,2450,Brown,126,49.22,Single,Splash
+Marans12,5,8.0,725,2400,Brown,105,30.34,Single,Blue
+Marans13,5,8.0,491,2250,Brown,120,41.2,Single,Blue
+Marans14,5,8.0,342,2020,Brown,118,42.94,Single,Splash Copper
+Marans15,5,8.0,134,1550,Brown,118,50.7,Single,Splash
+Marans16,5,8.0,833,1520,Brown,122,34.99,Single,Blue Copper
+Marans17,5,7.0,474,1790,Brown,111,42.89,Single,Blue Copper
+Marans18,5,10.0,906,2220,Brown,109,44.15,Single,Splash
+Marans19,5,7.0,442,1740,Brown,118,48.75,Single,Splash Copper
+Marans20,5,7.0,233,2040,Brown,115,31.52,Single,Splash Copper
+Marans21,5,10.0,118,2010,Brown,129,50.95,Single,Splash
+Marans22,5,9.0,899,2190,Brown,106,49.75,Single,Blue
+Marans23,5,9.0,866,2170,Brown,123,39.63,Single,Blue
+Marans24,5,7.0,444,2230,Brown,118,31.63,Single,Blue
+Marans25,5,9.0,425,2410,Brown,129,45.24,Single,Splash
+Marans26,5,7.0,859,1890,Brown,121,53.83,Single,Blue
+Marans27,5,9.0,179,1580,Brown,126,36.31,Single,Blue Copper
+Marans28,5,10.0,469,1980,Brown,114,32.32,Single,Blue
+Marans29,5,7.0,265,2370,Brown,117,40.41,Single,Blue Copper
+Marans30,5,9.0,567,2550,Brown,121,40.19,Single,Splash Copper
+Marans31,5,9.0,832,2050,Brown,110,54.24,Single,Blue
+Marans32,5,8.0,460,2680,Brown,107,53.42,Single,Blue
+Marans33,5,8.0,902,2210,Brown,120,32.66,Single,Splash Copper
+Marans34,5,8.0,124,2670,Brown,106,47.32,Single,Splash
+Marans35,5,7.0,626,2600,Brown,118,45.31,Single,Blue
+Marans36,5,8.0,825,2650,Brown,108,41.74,Single,Blue
+Marans37,5,10.0,182,2640,Brown,120,39.74,Single,Blue Copper
+Marans38,5,9.0,635,2670,Brown,129,54.49,Single,Splash
+Marans39,5,8.0,236,2940,Brown,117,50.31,Single,Blue
+Marans40,5,10.0,904,1820,Brown,123,52.92,Single,Blue
+Marans41,5,8.0,648,2240,Brown,128,31.68,Single,Blue
+Marans42,5,7.0,936,1530,Brown,113,39.71,Single,Blue Copper
+Marans43,0,9.0,979,2520,Brown,128,52.67,Single,Blue
+Marans44,5,7.0,233,1990,Brown,125,37.33,Single,Blue Copper
+Marans45,5,10.0,863,2930,Brown,117,42.53,Single,Splash
+Marans46,5,7.0,866,2160,Brown,126,54.93,Single,Blue Copper
+Marans47,5,8.0,809,1500,Brown,108,39.66,Single,Blue Copper
+Marans48,5,10.0,193,2320,Brown,106,38.72,Single,Splash
+Marans49,5,8.0,896,2240,Brown,114,43.01,Single,Blue
+Marans50,5,9.0,769,2690,Brown,110,42.61,Single,Blue
+Marans51,5,10.0,913,2330,Brown,113,40.57,Single,Blue
+Marans52,5,7.0,84,2280,Brown,115,31.8,Single,Blue Copper
+Marans53,5,8.0,660,2640,Brown,124,39.02,Single,Blue Copper
+Marans54,5,9.0,491,2170,Brown,116,40.74,Single,Splash Copper
+Marans55,5,10.0,699,2790,Brown,126,47.0,Single,Blue
+Marans56,5,9.0,228,1530,Brown,107,46.59,Single,Splash Copper
+Marans57,5,8.0,102,2030,Brown,112,41.08,Single,Splash Copper
+Marans58,5,9.0,350,2330,Brown,115,43.45,Single,Splash
+Marans59,5,9.0,407,2360,Brown,123,45.21,Single,Blue Copper
+Marans60,5,7.0,124,2200,Brown,119,50.86,Single,Splash
+Marans61,5,9.0,48,1880,Brown,124,46.4,Single,Blue
+Marans62,5,10.0,866,1730,Brown,107,38.37,Single,Blue Copper
+Marans63,0,9.0,990,1630,Brown,124,42.42,Single,Splash Copper
+Marans64,5,9.0,461,2960,Brown,106,50.16,Single,Splash Copper
+Marans65,5,7.0,664,1610,Brown,126,50.16,Single,Splash Copper
+Marans66,5,8.0,555,2060,Brown,107,45.08,Single,Blue
+Marans67,5,10.0,929,2510,Brown,114,38.66,Single,Blue Copper
+Marans68,5,9.0,361,2680,Brown,128,31.09,Single,Blue
+Marans69,5,8.0,802,1920,Brown,125,30.47,Single,Splash Copper
+Marans70,5,8.0,761,1800,Brown,127,37.33,Single,Blue Copper
+Marans71,5,10.0,825,2690,Brown,123,54.3,Single,Blue
+Marans72,5,10.0,694,2230,Brown,117,49.18,Single,Blue
+Marans73,5,10.0,933,2850,Brown,127,33.56,Single,Blue Copper
+Marans74,5,7.0,400,1890,Brown,105,47.43,Single,Splash
+Marans75,5,9.0,76,2080,Brown,112,36.64,Single,Splash
+Marans76,5,8.0,332,2140,Brown,120,52.85,Single,Splash
+Marans77,5,8.0,681,2060,Brown,129,34.6,Single,Blue Copper
+Marans78,5,9.0,344,2790,Brown,108,31.87,Single,Splash Copper
+Marans79,5,7.0,617,1700,Brown,113,32.34,Single,Splash Copper
+Marans80,5,9.0,91,1820,Brown,108,45.25,Single,Blue Copper
+Marans81,5,9.0,568,1520,Brown,119,52.35,Single,Splash Copper
+Marans82,5,9.0,187,1650,Brown,107,45.24,Single,Splash Copper
+Marans83,5,7.0,840,2300,Brown,128,40.4,Single,Splash
+Marans84,5,9.0,224,2540,Brown,129,38.82,Single,Splash Copper
+Marans85,5,9.0,201,2540,Brown,112,40.95,Single,Blue Copper
+Marans86,5,8.0,612,1630,Brown,117,50.91,Single,Splash
+Marans87,5,8.0,102,2320,Brown,107,54.47,Single,Splash Copper
+Marans88,5,8.0,594,2250,Brown,106,47.18,Single,Blue Copper
+Marans89,5,10.0,801,2100,Brown,123,46.74,Single,Splash Copper
+Marans90,5,7.0,447,2880,Brown,120,48.56,Single,Splash
+Marans91,5,10.0,358,2150,Brown,117,50.75,Single,Splash Copper
+Marans92,5,9.0,692,2810,Brown,127,45.84,Single,Blue
+Marans93,5,8.0,939,1600,Brown,117,40.03,Single,Splash
+Marans94,5,8.0,732,2910,Brown,114,47.74,Single,Splash Copper
+Marans95,5,7.0,591,2980,Brown,116,34.3,Single,Blue
+Marans96,5,8.0,589,1890,Brown,115,37.9,Single,Splash
+Marans97,5,7.0,72,2040,Brown,110,46.32,Single,Blue Copper
+Marans98,5,10.0,393,1940,Brown,107,43.21,Single,Blue Copper
+Marans99,5,9.0,94,2110,Brown,113,34.58,Single,Splash
+Marans100,5,7.0,699,2690,Brown,107,44.34,Single,Splash
+Marans101,5,9.0,294,2350,Brown,108,31.37,Single,Blue Copper
+Marans102,5,10.0,466,1840,Brown,122,49.79,Single,Splash Copper
+Marans103,5,9.0,526,2820,Brown,120,41.07,Single,Blue
+Marans104,5,9.0,615,2210,Brown,127,34.07,Single,Splash
+Marans105,5,9.0,55,2190,Brown,123,38.28,Single,Blue Copper
+Marans106,5,8.0,395,1700,Brown,113,43.19,Single,Splash Copper
+Marans107,5,7.0,405,2210,Brown,121,35.58,Single,Splash Copper
+Marans108,5,7.0,350,2810,Brown,121,44.02,Single,Blue
+Marans109,5,8.0,717,2650,Brown,128,35.25,Single,Splash Copper
+Marans110,5,8.0,24,1880,Brown,112,33.49,Single,Splash Copper
+Marans111,5,9.0,559,2900,Brown,107,50.94,Single,Splash
+Marans112,0,7.0,961,1780,Brown,127,34.32,Single,Splash Copper
+Marans113,5,8.0,95,2630,Brown,105,33.47,Single,Blue
+Marans114,5,8.0,206,2360,Brown,111,34.53,Single,Blue
+Marans115,5,7.0,76,1600,Brown,110,41.81,Single,Blue
+Marans116,5,7.0,418,2100,Brown,127,35.14,Single,Blue
+Marans117,5,9.0,461,2940,Brown,122,39.34,Single,Splash Copper
+Marans118,5,7.0,186,1780,Brown,123,33.87,Single,Blue
+Marans119,5,10.0,383,2390,Brown,122,50.31,Single,Blue
+Marans120,5,9.0,200,1710,Brown,105,30.46,Single,Blue Copper
+Marans121,5,10.0,146,1650,Brown,112,33.33,Single,Splash
+Marans122,5,10.0,262,2060,Brown,112,48.09,Single,Splash
+Marans123,5,7.0,35,2170,Brown,107,53.58,Single,Splash Copper
+Marans124,5,8.0,147,2730,Brown,129,37.64,Single,Splash
+Marans125,5,7.0,639,1590,Brown,105,40.49,Single,Splash
+Marans126,5,7.0,266,1700,Brown,129,53.94,Single,Splash Copper
+Marans127,5,9.0,160,2970,Brown,108,30.8,Single,Splash Copper
+Marans128,5,9.0,707,1920,Brown,128,52.32,Single,Splash Copper
+Marans129,5,9.0,475,2490,Brown,116,53.9,Single,Blue
+Marans130,5,7.0,567,2030,Brown,124,45.05,Single,Blue
+Marans131,5,7.0,661,2940,Brown,125,52.02,Single,Splash
+Marans132,5,10.0,288,2990,Brown,125,54.23,Single,Splash
+Marans133,5,8.0,753,2810,Brown,112,33.72,Single,Splash
+Marans134,5,8.0,853,2840,Brown,127,45.95,Single,Blue
+Marans135,5,7.0,71,1870,Brown,105,36.41,Single,Blue
+Marans136,5,8.0,863,1970,Brown,106,48.22,Single,Blue Copper
+Marans137,5,8.0,521,1930,Brown,106,31.14,Single,Blue Copper
+Marans138,5,7.0,61,2540,Brown,112,36.49,Single,Blue
+Marans139,5,8.0,117,1650,Brown,119,32.33,Single,Blue
+Marans140,5,8.0,907,1700,Brown,115,36.28,Single,Blue Copper
+Marans141,0,7.0,964,1680,Brown,128,37.15,Single,Splash
+Marans142,5,9.0,769,2160,Brown,120,36.78,Single,Splash Copper
+Marans143,5,10.0,361,1930,Brown,123,49.42,Single,Blue Copper
+Marans144,5,7.0,421,1750,Brown,109,49.74,Single,Splash
+Marans145,5,8.0,845,2880,Brown,109,46.91,Single,Splash Copper
+Marans146,5,7.0,814,1520,Brown,113,48.93,Single,Splash Copper
+Marans147,5,9.0,702,2930,Brown,128,35.25,Single,Blue Copper
+Marans148,5,8.0,882,2220,Brown,129,30.86,Single,Blue Copper
+Marans149,5,8.0,92,2010,Brown,114,33.14,Single,Splash Copper
+Marans150,0,8.0,976,1510,Brown,111,46.58,Single,Splash
+Marans151,5,9.0,529,2960,Brown,117,43.86,Single,Splash
+Marans152,5,8.0,800,2290,Brown,120,35.44,Single,Splash
+Marans153,5,7.0,250,2980,Brown,110,44.2,Single,Splash Copper
+Marans154,5,9.0,659,2980,Brown,112,32.06,Single,Blue
+Marans155,5,7.0,867,2790,Brown,108,30.08,Single,Blue
+Marans156,5,10.0,687,2890,Brown,122,45.01,Single,Blue Copper
+Marans157,5,7.0,488,1880,Brown,128,46.43,Single,Splash Copper
+Marans158,5,10.0,547,2650,Brown,113,53.24,Single,Blue Copper
+Marans159,5,10.0,576,2820,Brown,107,51.83,Single,Blue Copper
+Marans160,5,7.0,799,2960,Brown,124,50.0,Single,Splash
+Marans161,5,7.0,161,1840,Brown,117,50.72,Single,Blue Copper
+Marans162,5,10.0,854,2920,Brown,127,36.92,Single,Splash
+Marans163,5,10.0,135,2690,Brown,108,40.29,Single,Blue
+Marans164,5,8.0,893,2070,Brown,125,54.09,Single,Splash
+Marans165,5,7.0,700,2220,Brown,118,44.72,Single,Blue Copper
+Marans166,5,8.0,143,2200,Brown,121,50.24,Single,Blue Copper
+Marans167,5,10.0,107,1530,Brown,105,43.06,Single,Blue Copper
+Marans168,5,9.0,266,2040,Brown,108,47.8,Single,Splash Copper
+Marans169,5,10.0,554,2970,Brown,114,43.69,Single,Blue Copper
+Marans170,5,10.0,467,2660,Brown,117,39.72,Single,Splash
+Marans171,5,8.0,705,1740,Brown,110,43.18,Single,Blue
+Marans172,0,7.0,987,2690,Brown,119,53.03,Single,Splash
+Marans173,5,8.0,556,1650,Brown,115,41.84,Single,Splash Copper
+Marans174,5,10.0,694,1760,Brown,106,51.94,Single,Blue Copper
+Marans175,5,8.0,589,2950,Brown,108,38.86,Single,Splash Copper
+Marans176,5,9.0,858,1530,Brown,128,54.98,Single,Splash
+Marans177,5,10.0,316,2320,Brown,117,31.91,Single,Splash
+Marans178,5,8.0,795,1950,Brown,116,36.56,Single,Splash
+Marans179,5,8.0,844,2710,Brown,117,34.86,Single,Splash
+Ameraucana1,10,6.0,514,1740,Light Blue,114,47.12,Pea,Black
+Ameraucana2,10,11.0,727,2140,Bluish-Green,117,44.82,Pea,Blue Wheaten
+Ameraucana3,10,11.0,208,2080,Bluish-Green,113,49.51,Pea,White
+Ameraucana4,10,5.0,439,1960,Bluish-Green,109,51.37,Pea,Black
+Ameraucana5,10,11.0,936,1880,Light Blue,100,51.36,Pea,Silver
+Ameraucana6,10,7.0,204,1780,Bluish-Green,105,58.51,Pea,Buff
+Ameraucana7,10,6.0,177,1720,Bluish-Green,116,42.94,Pea,Brown Red
+Ameraucana8,10,6.0,469,2370,Light Blue,117,50.08,Pea,Brown Red
+Ameraucana9,10,6.0,684,1820,Light Blue,112,58.93,Pea,Blue Wheaten
+Ameraucana10,10,7.0,901,2100,Light Blue,109,52.24,Pea,Buff
+Ameraucana11,5,7.0,384,1800,Bluish-Green,110,53.1,Pea,Blue Wheaten
