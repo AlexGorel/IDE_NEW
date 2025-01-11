@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 # загружаем модель из файла
-with open('C:\скил\DST-156\IDE_NEW\DS_PROD-2. Воспроизводимость и контейнеризация приложений\web\models/model.pkl', 'rb') as pkl_file:
+with open('C:\скил\DST-156\IDE_NEW\DS_PROD-2. Воспроизводимость и контейнеризация приложений\web\app\models\model.pkl', 'rb') as pkl_file:
     model = pickle.load(pkl_file)
 
 # создаём приложение
@@ -20,6 +20,4 @@ def predict():
     pass
 
 if __name__ == '__main__':
-    app.run('localhost', 5000)
-
-#C:\скил\DST-156\IDE_NEW\DS_PROD-2. Воспроизводимость и контейнеризация приложений\web\models
+    app.run(host='0.0.0.0', port=5000)
