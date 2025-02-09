@@ -177,3 +177,5 @@ Project5_test_data.csv
 database.csv
 dst-3.0_mathml_14_5_rating.csv
 project_venv
+*.csv
+*.pkl
