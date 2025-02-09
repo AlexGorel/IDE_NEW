@@ -1,4 +1,3 @@
-
 import pandas as pd
 import pickle
 from flask import Flask, request, jsonify
@@ -17,7 +16,7 @@ def index():
 @app.route('/predict', methods=['POST'])
 def predict_func():    
     # загружаем модель из файла
-    with open('/src/app/libs/model.pkl', 'rb') as pkl_file:
+    with open('C:\скил\DST-156\IDE_NEW\Дипломный проект\Docker/src/app/libs/model.pkl', 'rb') as pkl_file:
         model = pickle.load(pkl_file)
     # features = request.json
     df = pd.read_json(request.json, dtype={str})  
