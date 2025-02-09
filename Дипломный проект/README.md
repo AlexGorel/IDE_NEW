@@ -26,10 +26,20 @@
 
 **Источник данных:**
 Рассматриваемые данные представляют из себя датасет, в котором содержатся сведения о 377 184 записях предложений агенств недвижимости.
-ссылка на файл с исходным датасетом: ссылка на файл с исходным датасетом: https://disk.yandex.com.am/d/vvLSAkqvBXH7Sg
+
+
+ссылка на файл с исходным датасетом: https://disk.yandex.com.am/d/vvLSAkqvBXH7Sg
+
+
 ссылка на файл данных с валидационным датасетом: https://disk.yandex.com.am/d/w8nNQ5KL8pvDSA
+
+
 ссылка на сохраненный файл модели:https://disk.yandex.com.am/d/hzXtQR09VZXhlA
+
+
 ссылка на контейнер Docker: https://hub.docker.com/r/alexgorel/diplom_final
+
+
 команда на скачивание образа: docker pull alexgorel/diplom_final
 
 ссылка на файл серверного приложения: https://disk.yandex.com.am/d/m0GDFqg8Y8k_bA
